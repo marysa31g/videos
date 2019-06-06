@@ -17,7 +17,7 @@
         Rutina
       </a>
       <div class="dropdown-menu dropdown-menu-right" aria-labelledby="bd-versions">
-        <a class="dropdown-item active" onclick="ocultarPecho();">Pierna</a>
+        <a class="dropdown-item " onclick="ocultarPecho();">Pierna</a>
         <a class="dropdown-item" onclick="ocultarPierna();" >Pecho</a>
         <a class="dropdown-item" onclick="mostrar();">Mostrar Todos</a>
       </div>
