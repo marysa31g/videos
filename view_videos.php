@@ -1,18 +1,50 @@
-<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-<script type="text/javascript"  src="js/bootstrap.js"></script>
 <script type="text/javascript"  src="js/jquery-3-3-1.js"></script>
-<!--JS y CSS-->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<script src="js/bootstrap.min.js"></script>
+<!--JS y 
 <section class="jumbotron text-center p-3 mb-2 bg-primary">
   <div class="container">
     <h1 class="jumbotron-heading">Rutinas </h1>
     <p class="card-text"></p>
-
   </p>
+  <div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown button
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+  </div>
+</div>
+
 </div>
 </section>
+CSS-->
+<header>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">ImgLogo</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
+    <li class="nav-item dropdown">
+      <a class="nav-item nav-link dropdown-toggle mr-md-2" href="#" id="bd-versions" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Rutina
+      </a>
+      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="bd-versions">
+        <a class="dropdown-item active" >Pierna</a>
+        <a class="dropdown-item">Pecho</a>
+      </div>
+    </li>
+</nav>
+</header>
 
 
-<div class="album py-5">
+<main role="main">
+  <div class="container">
+    
+  <div class="album py-5">
   <div class="promo box ">
     <div class="row">
       <!--Video 1-->
@@ -141,9 +173,10 @@
           </div>
         </div>
       </div>
+   </div>
+  </div>
+  </div>
 
- </div>
-</div>
-</div>
-
+  </div>
+</main>
 
