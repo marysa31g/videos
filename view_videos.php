@@ -51,11 +51,11 @@ CSS-->
       <div class="col-md-4">
         <h2 class="card-title"></h2>
         <div class="card mb-4 shadow-sm">
-          <iframe class="card-img-top" width="100%" height="225" src="https://www.youtube.com/embed/nKmH2Laeirk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe class="card-img-top" width="100%" height="225" src="https://www.youtube.com/embed/VRMLeECpyYc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <div class="card-body text-info">
-            <h3 class="card-title">Rutina intensa y matadora de piernas </h3>
-            <h5 class="card-title">Categoria Pierna</h5>
-            <h5 class="text-muted" ><em>En este tutorial aprenderás a realizar sentadillas</em></h5>
+            <h3 class="card-title">Rutina de ejercicios para levantar pecho</h3>
+            <h5 class="card-title">Categoria Pecho</h5>
+            <h5 class="text-muted" ><em>En este tutorial aprenderás a realizar </em></h5>
             <div class="card-footer">
               <small class="text-muted">Ultima actualización: 05/06/2019</small>
             </div>
@@ -63,7 +63,7 @@ CSS-->
               <div class="btn-group">
                 <a href=" " role="button" class="btn btn-sm btn-outline-secondary">Ver más</a>
               </div>
-              <small class="text-muted">20:25 mins</small>
+              <small class="text-muted">13:21 mins</small>
             </div>
           </div>
         </div>
@@ -76,7 +76,7 @@ CSS-->
           <div class="card-body text-info">
             <h3 class="card-title">Rutina intensa y matadora de piernas </h3>
             <h5 class="card-title">Categoria Pierna</h5>
-            <h5 class="text-muted" ><em>En este tutorial aprenderás a realizar sentadillas</em></h5>
+            <h5 class="text-muted" ><em>En este tutorial aprenderás a realizar ejercicios para las piernas</em></h5>
             <div class="card-footer">
               <small class="text-muted">Ultima actualización: 05/06/2019</small>
             </div>
@@ -93,11 +93,11 @@ CSS-->
      <div class="col-md-4">
         <h2 class="card-title"></h2>
         <div class="card mb-4 shadow-sm">
-          <iframe class="card-img-top" width="100%" height="225" src="https://www.youtube.com/embed/nKmH2Laeirk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe class="card-img-top" width="100%" height="225"src="https://www.youtube.com/embed/k_u8obkaGE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <div class="card-body text-info">
-            <h3 class="card-title">Rutina intensa y matadora de piernas </h3>
-            <h5 class="card-title">Categoria Pierna</h5>
-            <h5 class="text-muted" ><em>En este tutorial aprenderás a realizar sentadillas</em></h5>
+            <h3 class="card-title">Ejercicios para el abdomen </h3>
+            <h5 class="card-title">Categoria Pecho</h5>
+            <h5 class="text-muted" ><em>En este tutorial aprenderás a realizar ejercicios con el abdomen</em></h5>
             <div class="card-footer">
               <small class="text-muted">Ultima actualización: 05/06/2019</small>
             </div>
@@ -105,7 +105,7 @@ CSS-->
               <div class="btn-group">
                 <a href=" " role="button" class="btn btn-sm btn-outline-secondary">Ver más</a>
               </div>
-              <small class="text-muted">20:25 mins</small>
+              <small class="text-muted">10:52 mins</small>
             </div>
           </div>
         </div>
@@ -114,11 +114,11 @@ CSS-->
      <div class="col-md-4">
         <h2 class="card-title"></h2>
         <div class="card mb-4 shadow-sm">
-          <iframe class="card-img-top" width="100%" height="225" src="https://www.youtube.com/embed/nKmH2Laeirk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe class="card-img-top" width="100%" height="225" src="https://www.youtube.com/embed/l2NOi8CVSVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <div class="card-body text-info">
-            <h3 class="card-title">Rutina intensa y matadora de piernas </h3>
-            <h5 class="card-title">Categoria Pierna</h5>
-            <h5 class="text-muted" ><em>En este tutorial aprenderás a realizar sentadillas</em></h5>
+            <h3 class="card-title">Rutina intensa para el abdomen</h3>
+            <h5 class="card-title">Categoria Pecho</h5>
+            <h5 class="text-muted" ><em>En este tutorial aprenderás a realizar pectorales </em></h5>
             <div class="card-footer">
               <small class="text-muted">Ultima actualización: 05/06/2019</small>
             </div>
@@ -135,11 +135,11 @@ CSS-->
      <div class="col-md-4">
         <h2 class="card-title"></h2>
         <div class="card mb-4 shadow-sm">
-          <iframe class="card-img-top" width="100%" height="225" src="https://www.youtube.com/embed/nKmH2Laeirk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe class="card-img-top" width="100%" height="225" src="https://www.youtube.com/embed/AUTqIj21X7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <div class="card-body text-info">
-            <h3 class="card-title">Rutina intensa y matadora de piernas </h3>
+            <h3 class="card-title">Rutina intensa para las  piernas </h3>
             <h5 class="card-title">Categoria Pierna</h5>
-            <h5 class="text-muted" ><em>En este tutorial aprenderás a realizar sentadillas</em></h5>
+            <h5 class="text-muted" ><em>En este tutorial aprenderás a realizar ejercicios con pierna</em></h5>
             <div class="card-footer">
               <small class="text-muted">Ultima actualización: 05/06/2019</small>
             </div>
@@ -147,7 +147,7 @@ CSS-->
               <div class="btn-group">
                 <a href=" " role="button" class="btn btn-sm btn-outline-secondary">Ver más</a>
               </div>
-              <small class="text-muted">20:25 mins</small>
+              <small class="text-muted">17:09 mins</small>
             </div>
           </div>
         </div>
@@ -156,7 +156,7 @@ CSS-->
      <div class="col-md-4">
         <h2 class="card-title"></h2>
         <div class="card mb-4 shadow-sm">
-          <iframe class="card-img-top" width="100%" height="225" src="https://www.youtube.com/embed/nKmH2Laeirk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe class="card-img-top" width="100%" height="225" src="https://www.youtube.com/embed/u25umCpGr5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           <div class="card-body text-info">
             <h3 class="card-title">Rutina intensa y matadora de piernas </h3>
             <h5 class="card-title">Categoria Pierna</h5>
@@ -168,7 +168,7 @@ CSS-->
               <div class="btn-group">
                 <a href=" " role="button" class="btn btn-sm btn-outline-secondary">Ver más</a>
               </div>
-              <small class="text-muted">20:25 mins</small>
+              <small class="text-muted">10:39 mins</small>
             </div>
           </div>
         </div>
