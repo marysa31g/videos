@@ -1,26 +1,10 @@
 <script type="text/javascript"  src="js/jquery-3-3-1.js"></script>
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <script src="js/bootstrap.min.js"></script>
-<!--JS y 
-<section class="jumbotron text-center p-3 mb-2 bg-primary">
-  <div class="container">
-    <h1 class="jumbotron-heading">Rutinas </h1>
-    <p class="card-text"></p>
-  </p>
-  <div class="dropdown">
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Dropdown button
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item" href="#">Action</a>
-    <a class="dropdown-item" href="#">Another action</a>
-    <a class="dropdown-item" href="#">Something else here</a>
-  </div>
-</div>
+<script src="js/ocultar.js"></script>
+<script src="js/mostrarTodos.js"></script>
+<!--JS y CSS-->
 
-</div>
-</section>
-CSS-->
 <header>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">ImgLogo</a>
@@ -33,17 +17,23 @@ CSS-->
         Rutina
       </a>
       <div class="dropdown-menu dropdown-menu-right" aria-labelledby="bd-versions">
-        <a class="dropdown-item active" >Pierna</a>
-        <a class="dropdown-item">Pecho</a>
+        <a class="dropdown-item active" onclick="ocultarPecho();">Pierna</a>
+        <a class="dropdown-item" onclick="ocultarPierna();" >Pecho</a>
+        <a class="dropdown-item" onclick="mostrar();">Mostrar Todos</a>
       </div>
     </li>
+  </ul>
 </nav>
 </header>
 
 
 <main role="main">
+
+<div id="pierna"><h1>Hola soy pierna</h1></div>
+<div id="pecho"><h1>Hola soy pecho</h1></div>
+
   <div class="container">
-    
+
   <div class="album py-5">
   <div class="promo box ">
     <div class="row">
@@ -179,4 +169,8 @@ CSS-->
 
   </div>
 </main>
+<div id="pierna"><h1>Hola soy pierna</h1></div>
+<div id="pecho"><h1>Hola soy pecho</h1></div>
 
+
+  
